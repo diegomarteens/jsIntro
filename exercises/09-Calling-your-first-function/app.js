@@ -4,3 +4,7 @@ function isOdd(myNumber)
 }
 
 // Your code below:
+
+let a = isOdd(45345)
+
+console.log(a)
