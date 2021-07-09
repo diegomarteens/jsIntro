@@ -2,3 +2,8 @@
 
 // Declare your function here
 
+function generateRandom(){
+    return Math.floor((Math.random() * 9))
+}
+
+console.log(generateRandom())
